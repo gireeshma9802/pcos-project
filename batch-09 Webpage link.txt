@@ -1,0 +1,3 @@
+The link t the interactive webpage:
+
+https://pocs-web-app-disease-prediction-civb9sgirrkvbs87dgcva9.streamlit.app/
